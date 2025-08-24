@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# VSCode settings and workspace files
+.vscode/
+
+# MacOS files
+.DS_Store
+
+# CSV files (if you want to ignore data exports)
+*.csv
