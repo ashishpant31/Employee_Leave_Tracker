@@ -1,4 +1,4 @@
-**🤖 Try:** https://https://ashish-employee-leave-tracker.streamlit.app/
+**🤖 Try:** https://ashish-employee-leave-tracker.streamlit.app/
 
 # 🗓️ Employee Leave Tracker
 
